@@ -13,9 +13,19 @@ This page is designed to suport the Computer Programming Class at Edinburgh Coll
 
 # Course Outline
 
-  - Import a HTML file and watch it magically convert to Markdown
-  - Drag and drop images (requires your Dropbox account be linked)
+  - I will populate this as the course is written
 
+| Week | Topic |
+| ------ | ------ |
+| 1 | [plugins/dropbox/README.md][PlDb] |
+| 2 | [plugins/github/README.md][PlGh] |
+| 3 | [plugins/googledrive/README.md][PlGd] |
+| 4 | [plugins/onedrive/README.md][PlOd] |
+| 5 | [plugins/medium/README.md][PlMe] |
+| 6 | [plugins/googleanalytics/README.md][PlGa] |
+
+
+  
 
 You can also:
   - Import and save files from GitHub, Dropbox, Google Drive and One Drive
@@ -70,18 +80,6 @@ $ npm install --production
 $ NODE_ENV=production node app
 ```
 
-### Plugins
-
-Dillinger is currently extended with the following plugins. Instructions on how to use them in your own application are linked below.
-
-| Plugin | README |
-| ------ | ------ |
-| Dropbox | [plugins/dropbox/README.md][PlDb] |
-| GitHub | [plugins/github/README.md][PlGh] |
-| Google Drive | [plugins/googledrive/README.md][PlGd] |
-| OneDrive | [plugins/onedrive/README.md][PlOd] |
-| Medium | [plugins/medium/README.md][PlMe] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
 
 
 ### Development
