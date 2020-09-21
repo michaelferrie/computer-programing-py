@@ -25,9 +25,9 @@ This page is designed to suport the Computer Programming Class at Edinburgh Coll
 | 6 |12 Oct 2020 |
 
 
-### Code Example
+### Software Required
 
-Install the dependencies and devDependencies and start the server.
+Getting the latest version of python - from here: https://www.python.org/downloads/
 
 ```sh
 $ python3.8
