@@ -18,7 +18,8 @@ This page is designed to suport the Computer Programming Class at Edinburgh Coll
 | Week | Date | Topic | Lab |
 | ------ | ------ | ------ | ------ |
 | 1 |07 Sep 2020 | Introduction & Overview | Installing Python 3 |
-| 2 |14 Sep 2020 | Types of Language - Imperative & Declarative Knowledge| Creating simple algorithms| 
+| 2 |14 Sep 2020 | 1 Types of Language
+                   2 Imperative & Declarative Knowledge| Creating simple algorithms| 
 | 3 |21 Sep 2020 | 
 | 4 |28 Sep 2020 |
 | 5 |05 Oct 2020 |
@@ -30,6 +31,6 @@ This page is designed to suport the Computer Programming Class at Edinburgh Coll
 Getting the latest version of python - from here: https://www.python.org/downloads/
 
 ```sh
-$ python3.8
-$ print "Hello World"
+$ python3.8.5
+$ print ("hello World")
 ```
