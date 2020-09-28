@@ -1,5 +1,5 @@
 # computer-programing
-![Screenshot](ec.png)
+![Screenshot](ec_py.png)
 ## Computer Programming Class Repo
 
 ### Module Outline Page
