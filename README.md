@@ -35,7 +35,7 @@ $ python3.8.5
 $ print ("hello World")
 ```
 # Online Flowchart / Diagram Creator
- YOu can get a copy of visio from azure - however I think that this website makes life a lot easier: https://app.diagrams.net/
+Copies of visio are available from azure - however I think that this website makes life a lot easier: https://app.diagrams.net/
  
  I have not tested things out yet but you can install the desktop version from here https://github.com/jgraph/drawio-desktop/releases/tag/v13.7.3
 
