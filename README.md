@@ -1,4 +1,5 @@
 # computer-programing
+![Screenshot](ec.png)
 ## Computer Programming Class Repo
 
 ### Module Outline Page
