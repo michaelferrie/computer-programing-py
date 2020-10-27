@@ -26,6 +26,7 @@ This page is designed to suport the Computer Programming Class at Edinburgh Coll
 | 6 |12 Oct 2020 | Variables & Types | Variables & Types |
 | 7 |19 Oct 2020 | October Break | |
 | 8 |26 Oct 2020 | Conditionals & String Indexing | Conditionals & String Indexing |
+| 8 |03 Nov 2020 | Loops | Loops - For & While |
 
 
 ### Software Required
