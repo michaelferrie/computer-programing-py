@@ -27,13 +27,18 @@ This page is designed to suport the Computer Programming Class at Edinburgh Coll
 | 7 |19 Oct 2020 | October Break | |
 | 8 |26 Oct 2020 | Conditionals & String Indexing | Conditionals & String Indexing |
 | 8 |02 Nov 2020 | Loops & Lists | Loops - For & While and Lists |
-| 9 |09 Nov 2020 | Dictionaries Functions & Modules | Dictionaries Functions & Modules |
-| 10 |16 Nov 2020 | Putting it all together | Problem Set 1 |
-| 10 |23 Nov 2020 | Putting it all together 2 | Problem Set 2 |
+| 9 |09 Nov 2020 | Dictionaries Functions & Modules | RPG Style Battle |
+| 10 |16 Nov 2020 | Higher Order Procedures | ??? |
+| 11 |23 Nov 2020 | ??? | ??? |
 
+# Course Outline NPA / SCQF Level 6
 
+  - I will populate this as the course is written, topics may change as the course progresses
 
-
+| Week | Date | Topic | Lab |
+| ------ | ------ | ------ | ------ |
+| 1 |13 Nov 2020 | Introduction & Installing Python 3 | Problem Set 1 - Printing |
+| 2 |20 Nov 2020 | ??? | ??? | 
 
 ### Software Required
 
@@ -41,7 +46,7 @@ This page is designed to suport the Computer Programming Class at Edinburgh Coll
 Getting the latest version of python, at the time of writing this was 3.8.5 but 3.6 will be released soon - from here: https://www.python.org/downloads/
 
 ```sh
-$ python3.8.5
+$ python 3.9
 $ print ("hello World")
 ```
 # Online Flowchart / Diagram Creator
