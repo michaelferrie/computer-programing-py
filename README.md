@@ -28,8 +28,9 @@ This page is designed to suport the Computer Programming Class at Edinburgh Coll
 | 8 |26 Oct 2020 | Conditionals & String Indexing | Conditionals & String Indexing |
 | 8 |02 Nov 2020 | Loops & Lists | Loops - For & While and Lists |
 | 9 |09 Nov 2020 | Dictionaries Functions & Modules | RPG Style Battle |
-| 10 |16 Nov 2020 | Higher Order Procedures | ??? |
-| 11 |23 Nov 2020 | ??? | ??? |
+| 10 |16 Nov 2020 | Higher Order Procedures | Problem Set 1 - Gnomes |
+| 11 |23 Nov 2020 | Problem Set 2 | Countdown CSV Game |
+| 12 |01 Dec 2020 | Problem Set 3 | Menu System |
 
 # Course Outline NPA / SCQF Level 6
 
@@ -38,7 +39,7 @@ This page is designed to suport the Computer Programming Class at Edinburgh Coll
 | Week | Date | Topic | Lab |
 | ------ | ------ | ------ | ------ |
 | 1 |13 Nov 2020 | Introduction & Installing Python 3 | Problem Set 1 - Printing |
-| 2 |20 Nov 2020 | ??? | ??? | 
+| 2 |20 Nov 2020 | Data Types & Conditionals | Problem Set 2 | 
 
 ### Software Required
 
