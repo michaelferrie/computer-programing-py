@@ -1,16 +1,20 @@
 # computer-programing
-![Screenshot](ec_py.png)
+
 ## Computer Programming Class Repo
 
 ### Module Outline Page
 
-This page is designed to suport the Computer Programming Class at Edinburgh College, this covers the following course codes:
+This page is designed to suport the Computer Programming classes at Edinburgh College, this repo can be used to support the following modules:
 
   - JOHA34 Computer Programming
   - H17334 Software Development Introduction
   - HY2C45 Computer Programming
-  - EC146020/21
-  - EC000190/009
+  - EC146020
+  - EC000190
+  - NPA Data Science
+  - PDA Data Science
+  - Scripting for Security
+  - Computer Operating Systems COS
 
 # Course Outline HNC/HND
 
