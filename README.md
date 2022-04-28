@@ -8,54 +8,75 @@ This page is designed to suport the Computer Programming classes at Edinburgh Co
 
   - JOHA34 Computer Programming
   - H17334 Software Development Introduction
-  - HY2C45 Computer Programming
-  - EC146020
-  - EC000190
-  - NPA Data Science
-  - PDA Data Science
-  - Scripting for Security
-  - Computer Operating Systems COS
+
 
 # Course Outline HNC/HND
 
   - I will populate this as the course is written, topics may change as the course progresses
 
-| Week | Date | Topic | Lab |
+| Tutorial / Week | Topic | Lab |
 | ------ | ------ | ------ | ------ |
-| 1 |07 Sep 2020 | Introduction & Overview | Installing Python 3 |
-| 2 |14 Sep 2020 | Types of Language 2 Imperative & Declarative Knowledge | Creating simple algorithms | 
-| 3 |21 Sep 2020 | Flowcharts & Pseudocode | Creating Flowcharts to represent algorithms |
-| 4 |28 Sep 2020 | Testing & Debugging | Representing algorithms in pseudocode and flowcharts |
-| 5 |05 Oct 2020 | Syntax & Semantics | Fixing Prints |
-| 6 |12 Oct 2020 | Variables & Types | Variables & Types |
-| 7 |19 Oct 2020 | October Break | |
-| 8 |26 Oct 2020 | Conditionals & String Indexing | Conditionals & String Indexing |
-| 8 |02 Nov 2020 | Loops & Lists | Loops - For & While and Lists |
-| 9 |09 Nov 2020 | Dictionaries Functions & Modules | RPG Style Battle |
-| 10 |16 Nov 2020 | Higher Order Procedures | Problem Set 1 - Gnomes |
-| 11 |23 Nov 2020 | Problem Set 2 | Countdown CSV Game |
-| 12 |01 Dec 2020 | Problem Set 3 | Menu System |
+| 0 | Introduction & Overview | Installing JupyterLab and Python 3 |
+| 1 | Types of Language | Stages in programming and Syntax | 
+| 2 | Editing and testing | Creating flowcharts |
+| 3 | Variables and types | Variables and types |
+| 4 | Syntax and Semantics | Fixing Prints |
+| 5 | Variables and Types | Variables and Types |
+| 6 | Conditionals and Indexing | Conditionals and Indexing + RPG Style Battle |
+| 7 | Dictionaries and functions | Dictionaries and functions + Skills integration challenge |
+| 8 | Decomposition | Credit card repayment calculator |
+| 10 | CSV files and Pandas | CSV files and Pandas |
+| 11 | Coursework released | Coursework released |
+| 12 | No class revision for test | No class revision for test |
+| 12 | Final exam |  Final exam |
 
-# Course Outline NPA / SCQF Level 6
-
-  - I will populate this as the course is written, topics may change as the course progresses
-
-| Week | Date | Topic | Lab |
-| ------ | ------ | ------ | ------ |
-| 1 |13 Nov 2020 | Introduction & Installing Python 3 | Problem Set 1 - Printing |
-| 2 |20 Nov 2020 | Data Types & Conditionals | Problem Set 2 | 
 
 ### Software Required
 
 # Getting Python
-Getting the latest version of python, at the time of writing this was 3.8.5 but 3.6 will be released soon - from here: https://www.python.org/downloads/
+Getting the latest version of python, download and install from![https://www.python.org/downloads/](https://www.python.org/downloads/)
 
-```sh
+```python3
 $ python 3.9
 $ print ("hello World")
 ```
-# Online Flowchart / Diagram Creator
-Copies of visio are available from azure - however I think that this website makes life a lot easier: https://app.diagrams.net/
- 
- I have not tested things out yet but you can install the desktop version from here https://github.com/jgraph/drawio-desktop/releases/tag/v13.7.3
 
+# Getting JupyterLab
+
+You have a few choices:
+
+## Beginners
+
+There is a bloated electron app for Jupyter available ![https://github.com/jupyterlab/jupyterlab-desktop#Download](https://github.com/jupyterlab/jupyterlab-desktop#Download)
+
+## Steve Jobs Fans
+
+If you are on a fruit company PC go here ![https://github.com/jupyterlab/jupyterlab-desktop#Download](https://github.com/jupyterlab/jupyterlab-desktop#Download)
+
+## Bill Gates Supporters
+
+The best way to do thing is to install with pip, in the cmd shell on windows.
+
+```python
+python -m pip install --upgrade pip
+python -m pip install jupyterlab
+```
+
+Then from cmd run the following:
+
+```sh
+jupyter lab
+```
+## Linux
+
+In terminal as your normal non-root user run
+
+ ```python
+pip install --upgrade pip
+pip install jupyterlab
+```
+Then in the terminal run
+
+```sh
+jupyter lab
+```
