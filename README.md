@@ -48,11 +48,11 @@ You have a few choices:
 
 ## Beginners
 
-There is a bloated electron app for Jupyter available ![https://github.com/jupyterlab/jupyterlab-desktop#Download](https://github.com/jupyterlab/jupyterlab-desktop#Download)
+There is a bloated electron app for Jupyter available [https://github.com/jupyterlab/jupyterlab-desktop#Download](https://github.com/jupyterlab/jupyterlab-desktop#Download)
 
 ## Steve Jobs Fans
 
-If you are on a fruit company PC go here ![https://github.com/jupyterlab/jupyterlab-desktop#Download](https://github.com/jupyterlab/jupyterlab-desktop#Download)
+If you are on a fruit company PC go here [https://github.com/jupyterlab/jupyterlab-desktop#Download](https://github.com/jupyterlab/jupyterlab-desktop#Download)
 
 ## Bill Gates Supporters
 
