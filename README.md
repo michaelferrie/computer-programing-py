@@ -28,7 +28,8 @@ This page is designed to suport the Computer Programming classes at Edinburgh Co
 | 10 | CSV files and Pandas | CSV files and Pandas |
 | 11 | Coursework released | Coursework released |
 | 12 | No class revision for test | No class revision for test |
-| 12 | Final exam |  Final exam |
+| 13 | Final exam |  Final exam |
+| 14-16 | Coursework submission and remediation | Coursework submission and remediation |
 
 
 ### Software Required
