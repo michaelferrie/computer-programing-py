@@ -15,7 +15,7 @@ This page is designed to suport the Computer Programming classes at Edinburgh Co
   - I will populate this as the course is written, topics may change as the course progresses
 
 | Tutorial / Week | Topic | Lab |
-| ------ | ------ | ------ | ------ |
+| ------ | ------ | ------ |
 | 0 | Introduction & Overview | Installing JupyterLab and Python 3 |
 | 1 | Types of Language | Stages in programming and Syntax | 
 | 2 | Editing and testing | Creating flowcharts |
