@@ -16,7 +16,7 @@ This page is designed to suport the Computer Programming classes at Edinburgh Co
 
 | Tutorial / Week | Topic | Lab |
 | ------ | ------ | ------ |
-| 0 | Introduction & Overview | Installing JupyterLab and Python 3 |
+| 0 | Introduction and Overview | Installing JupyterLab and Python 3 |
 | 1 | Types of Language | Stages in programming and Syntax | 
 | 2 | Editing and testing | Creating flowcharts |
 | 3 | Variables and types | Variables and types |
@@ -35,11 +35,13 @@ This page is designed to suport the Computer Programming classes at Edinburgh Co
 ### Software Required
 
 # Getting Python
-Getting the latest version of python, download and install from![https://www.python.org/downloads/](https://www.python.org/downloads/)
+Getting the latest version of python, download and install from [https://www.python.org/downloads/](https://www.python.org/downloads/). Then launch IDLE and run the following at the prompt.
 
-```python3
-$ python 3.9
+```python
+$ python
 $ print ("hello World")
+>>> hello world
+
 ```
 
 # Getting JupyterLab
@@ -62,7 +64,6 @@ The best way to do thing is to install with pip, in the cmd shell on windows.
 python -m pip install --upgrade pip
 python -m pip install jupyterlab
 ```
-
 Then from cmd run the following:
 
 ```sh
